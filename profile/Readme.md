@@ -38,6 +38,6 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 | Track | Room | Trainers |
 |-------|------|----------|
-| Embedded (Tock) | | Alexandru Vochescu, Teona Severin, Teodora Miu, Irina Bradu  |
-| Web Backend | | Alexandru Radovici, Liviu Moraru, Alexandru Negoita, Andrei Serban |
-| Applications | | Cosmin Radu, Cristiana Andrei, Amalia Simion |
+| Embedded (Tock) | | [Alexandru Vochescu](https://github.com/valexandru), [Teona Severin](https://github.com/teonaseverin), [Teodora Miu](https://github.com/teodoramiu), [Irina Bradu](https://github.com/orgs/UPB-RustWorkshop/people/irina-b-dev)  |
+| Web Backend | | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici), [Liviu Moraru](https://github.com/skyplane23), [Alexandru Negoita](https://github.com/AlexandraNegoita), [Andrei Serban](https://github.com/hateofhades) |
+| Applications | | [Cosmin Radu](https://github.com/orgs/UPB-RustWorkshop/people/cosmindanielradu19), [Cristiana Andrei](https://github.com/orgs/UPB-RustWorkshop/people/Cristiana959), [Amalia Simion](https://github.com/CAmi307) |
