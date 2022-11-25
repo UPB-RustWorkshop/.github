@@ -44,3 +44,10 @@ Track assignments will be announced when registering.
 | Embedded (Tock) | | [Alexandru Vochescu](https://github.com/valexandru), [Teona Severin](https://github.com/teonaseverin), [Teodora Miu](https://github.com/teodoramiu), [Irina Bradu](https://github.com/orgs/UPB-RustWorkshop/people/irina-b-dev)  |
 | Web Backend | | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici), [Liviu Moraru](https://github.com/skyplane23), [Alexandru Negoita](https://github.com/AlexandraNegoita), [Andrei Serban](https://github.com/hateofhades) |
 | Applications | | [Cosmin Radu](https://github.com/orgs/UPB-RustWorkshop/people/cosmindanielradu19), [Cristiana Andrei](https://github.com/orgs/UPB-RustWorkshop/people/Cristiana959), [Amalia Simion](https://github.com/CAmi307) |
+
+## Thank you
+
+This event would not have been possible without the help of:
+- The [Computer Engineering Department](https://cs.pub.ro/), Politehnica University of Bucharest
+- The [PRECIS Research Center](http://precis.acs.pub.ro/), Politehnica University of Bucharest
+- [NXP Semiconductor Romania](https://www.nxp.com/company/about-nxp/worldwide-locations/romania:ROMANIA_HOME_ROMANIAN)
