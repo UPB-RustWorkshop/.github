@@ -1,6 +1,6 @@
 # Rust Workshop
 
-Welcome to Rust Workshop :crab:
+Welcome to the Rust Workshop :crab:
 
 ## What to bring
 
