@@ -50,4 +50,4 @@ Track assignments will be announced when registering.
 This event would not have been possible without the help of:
 - The [Computer Engineering Department](https://cs.pub.ro/), Politehnica University of Bucharest
 - The [PRECIS Research Center](http://precis.acs.pub.ro/), Politehnica University of Bucharest
-- [NXP Semiconductor Romania](https://www.nxp.com/company/about-nxp/worldwide-locations/romania:ROMANIA_HOME_ROMANIAN)
+- [NXP Semiconductors Romania](https://www.nxp.com/company/about-nxp/worldwide-locations/romania:ROMANIA_HOME_ROMANIAN)
