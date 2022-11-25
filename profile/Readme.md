@@ -7,6 +7,7 @@ Welcome to Rust Workshop :crab:
 Please make sure you have:
 - a laptop with Rust working (we prefer Linux, macOS or a Linux VM)
 - a GitHub account
+- read chapters [2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html), [3](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) and [5](https://doc.rust-lang.org/book/ch05-00-structs.html) from *The Rust Programming Language*
 
 ## Schedule
 
