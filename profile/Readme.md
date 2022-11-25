@@ -37,6 +37,8 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 ## Tracks
 
+Track assignments will be announced when registering.
+
 | Track | Room | Trainers |
 |-------|------|----------|
 | Embedded (Tock) | | [Alexandru Vochescu](https://github.com/valexandru), [Teona Severin](https://github.com/teonaseverin), [Teodora Miu](https://github.com/teodoramiu), [Irina Bradu](https://github.com/orgs/UPB-RustWorkshop/people/irina-b-dev)  |
