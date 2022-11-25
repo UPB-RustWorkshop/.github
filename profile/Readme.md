@@ -28,7 +28,7 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 | Time | Location | Activity |
 |------|----------|----------|
-|10:00- 12:00 | Breakout Rooms | Open Source Contributions for each track  |
+|10:00 - 12:00 | Breakout Rooms | Open Source Contributions for each track  |
 |12:00 - 13:00 | Hol Precis | Lunch :sandwich: |
 |13:00 - 16:00 | Breakout Rooms | Open Source Contributions for each track |
 |16:00 - 16:30 | PR001 | Awards :trophy: |
