@@ -16,7 +16,7 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 | Time | Location | Activity |
 |------|----------|----------|
-|11:30- 12:30 | Hol PRECIS | Registration & Welcome Coffee :coffee: |
+|11:30 - 12:30 | Hol PRECIS | Registration & Welcome Coffee :coffee: |
 |12:30 - 13:00 | PR001 | Keynote - *Simona Almajan (NXP)* |
 |13:00 - 15:00 | PR001 | What makes Rust so special? - Alexandru Radovici |
 |15:00 - 16:00 | Hol Precis | Coding, Snacks & Drinks :tropical_drink: |
