@@ -5,8 +5,8 @@ Welcome to Rust Workshop :crab:
 ## What to bring
 
 Please make sure you have:
-- Laptop (with Rust installed)
-- GitHub account
+- a laptop with Rust working (we prefer Linux or a Linux VM)
+- a GitHub account
 
 ## Schedule
 
