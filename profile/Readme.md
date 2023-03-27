@@ -43,8 +43,9 @@ Track assignments will be announced when registering.
 | Track | Room | Trainers |
 |-------|------|----------|
 | Embedded (Tock) | TBA | [Alexandru Vochescu](https://github.com/valexandru), [Teona Severin](https://github.com/teonaseverin), [Teodora Miu](https://github.com/teodoramiu), [Irina Bradu](https://github.com/orgs/UPB-RustWorkshop/people/irina-b-dev)  |
-| Web Backend | TBA | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici), [Liviu Moraru](https://github.com/skyplane23), [Alexandra Negoita](https://github.com/AlexandraNegoita), [Andrei Serban](https://github.com/hateofhades) |
-| Applications | TBA | [Cosmin Radu](https://github.com/orgs/UPB-RustWorkshop/people/cosmindanielradu19), [Cristiana Andrei](https://github.com/orgs/UPB-RustWorkshop/people/Cristiana959), [Amalia Simion](https://github.com/CAmi307) |
+| Web Servers | TBA | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici), [Liviu Moraru](https://github.com/skyplane23), [Alexandra Negoita](https://github.com/AlexandraNegoita), [Andrei Serban](https://github.com/hateofhades) |
+| Desktop Applications | TBA | [Cosmin Radu](https://github.com/orgs/UPB-RustWorkshop/people/cosmindanielradu19), [Cristiana Andrei](https://github.com/orgs/UPB-RustWorkshop/people/Cristiana959), [Amalia Simion](https://github.com/CAmi307) |
+| Command Line Applications | TBA | TBA |
 
 ## Thank you
 
