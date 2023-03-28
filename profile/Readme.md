@@ -30,9 +30,9 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 | Time | Location | Activity |
 |------|----------|----------|
-|10:00 - 12:00 | Breakout Rooms | Open Source Contributions for each track  |
-|12:00 - 13:00 | Hol Energetică | Lunch :sandwich: |
-|13:00 - 16:00 | Breakout Rooms | Open Source Contributions for each track |
+|10:00 - 13:00 | Breakout Rooms | Open Source Contributions for each track  |
+|13:00 - 14:00 | Hol Energetică | Lunch :sandwich: |
+|14:00 - 16:00 | Breakout Rooms | Open Source Contributions for each track |
 |16:00 - 16:30 | TBA | Awards :trophy: |
 |16:30 - 18:00 | TBA | Pizza & Networking :pizza: |
 
