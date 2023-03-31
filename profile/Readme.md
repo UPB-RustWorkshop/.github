@@ -43,9 +43,9 @@ Track assignments will be announced when registering.
 | Track | Room | Trainers |
 |-------|------|----------|
 | Embedded (Tock) | EH002 | [Mihai Negru](https://github.com/Matrix22), [Darius Andrei Jipa](https://github.com/JADarius) |
-| Web Servers | ELA123 | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici) |
-| Desktop Applications | ELA224 | [Teodora Miu](https://github.com/teodoramiu), [Alex Popa](https://github.com/) |
-| Command Line Applications | TBA | [Amalia Simion](https://github.com/CAmi307), [Iustina Andreea](https://github.com/iuniod), [Rareș Constantin](https://github.com/RaresCon), [Robert Grancsa](https://github.com/RobertGrancsa) |
+| Web Servers | ELa224 | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici) |
+| Desktop Applications | EG106 | [Teodora Miu](https://github.com/teodoramiu), [Alex Popa](https://github.com/) |
+| Command Line Applications | ELa123 | [Amalia Simion](https://github.com/CAmi307), [Iustina Andreea](https://github.com/iuniod), [Rareș Constantin](https://github.com/RaresCon), [Robert Grancsa](https://github.com/RobertGrancsa) |
 
 ## Thank you
 
