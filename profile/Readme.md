@@ -30,11 +30,11 @@ Please take a moment to look at the schedule for the Rust Workshop.
 
 | Time | Location | Activity |
 |------|----------|----------|
+|9:00 - 10:00 | Hol Energetică | Breakfast |
 |10:00 - 13:00 | Breakout Rooms | Open Source Contributions for each track  |
-|13:00 - 14:00 | Hol Energetică | Lunch :sandwich: |
+|13:00 - 14:00 | EC104 | Lunch :sandwich: |
 |14:00 - 16:00 | Breakout Rooms | Open Source Contributions for each track |
-|16:00 - 16:30 | TBA | Awards :trophy: |
-|16:30 - 18:00 | TBA | Pizza & Networking :pizza: |
+|16:00 - 16:30 | EC104 | Awards :trophy: |
 
 ## Tracks
 
@@ -43,7 +43,7 @@ Track assignments will be announced when registering.
 | Track | Room | Trainers |
 |-------|------|----------|
 | Embedded (Tock) | EH002 | [Mihai Negru](https://github.com/Matrix22), [Darius Andrei Jipa](https://github.com/JADarius) |
-| Web Servers | ELa224 | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici) |
+| Web Servers | EC104 | [Alexandru Radovici](https://github.com/orgs/UPB-RustWorkshop/people/alexandruradovici) |
 | Desktop Applications | EG106 | [Teodora Miu](https://github.com/teodoramiu), [Alex Popa](https://github.com/) |
 | Command Line Applications | ELa123 | [Amalia Simion](https://github.com/CAmi307), [Iustina Andreea](https://github.com/iuniod), [Rareș Constantin](https://github.com/RaresCon), [Robert Grancsa](https://github.com/RobertGrancsa) |
 
